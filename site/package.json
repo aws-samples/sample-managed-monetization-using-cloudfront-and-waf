@@ -12,7 +12,7 @@
   "dependencies": {
     "@x402/core": "2.16.0",
     "@x402/evm": "2.16.0",
-    "dompurify": "3.4.11",
+    "dompurify": "3.4.12",
     "react": "19.2.7",
     "react-dom": "19.2.7",
     "viem": "2.53.1"
